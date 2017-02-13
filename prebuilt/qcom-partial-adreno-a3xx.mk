@@ -13,8 +13,6 @@
 # limitations under the License.
 
 PRODUCT_PACKAGES += \
-	a330_pfp \
-	a330_pm4 \
 	eglsubAndroid \
 	libEGL_adreno \
 	libGLESv1_CM_adreno \
